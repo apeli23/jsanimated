@@ -8,14 +8,14 @@ JavaScript frameworks can be used to move a number of DOM elements (<img />, <di
 
 ## Codesandbox
 
-Check the sandbox demo on  [Codesandbox](/).
+Check the sandbox demo on  [Codesandbox](https://codesandbox.io/s/javascript-animation-jbp4ke).
 
 <CodeSandbox
-title="mergevideos"
-id=" "
+title="javascript-animation"
+id="javascript-animation-jbp4ke"
 />
 
-You can also get the project github repo using [Github](/).
+You can also get the project github repo using [Github](https://github.com/musebe/Javascript-animation).
 
 ## Prerequisites
 
